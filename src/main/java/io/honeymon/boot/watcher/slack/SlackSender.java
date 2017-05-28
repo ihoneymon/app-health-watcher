@@ -16,6 +16,7 @@ import lombok.extern.slf4j.Slf4j;
  * Slack incoming Webhook 을 {@link RestTemplate}로 호출하여 메시지 전송 
  * @author honeymon
  * @see <a href="https://api.slack.com/incoming-webhooks">Incoming Webhooks</a>
+ * @see <a href="https://github.com/ihoneymon/slack-incoming-webhook">ihoneymon/slack-incoming-webhook</a>
  */
 @Slf4j
 @Component
